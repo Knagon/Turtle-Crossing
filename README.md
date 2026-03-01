@@ -39,7 +39,7 @@ Projekt pokazuje umiejętność pracy z modułami, klasami, pętlą gry oraz pro
 
 ### Poziom 2 – GAME OVER
 
-![Widok Poziomu 2 i po przegranej napis: Game Over](images/Game_Over.PNG.PNG)
+![Widok Poziomu 2 i po przegranej napis: Game Over](images/Game_Over.PNG)
 *Ekran drugiego poziomu z komunikatem „GAME OVER”, prezentujący działanie systemu poziomów oraz ekran końcowy po kolizji.*
 
 
